@@ -12,11 +12,11 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://gogiso.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -35,23 +35,23 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+# twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: hyegeinegeine
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: gogiso128@gmail.com
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: gogiso128@gmail.com
 
 authors:
     johndoe:
